@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Mercy Pochampally! 👋
 
-<!--
-**MercyPochampally/MercyPochampally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Passionate Developer | Tech Enthusiast | Problem Solver**  
+💻 I love creating cross-platform apps and exploring AI/ML.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **Technologies & Tools**
+- **Languages:** Java, Python, Dart,C
+- **Frameworks:** Flutter, TensorFlow
+- **Tools:** Firebase, Git, GitHub, Visual Studio Code  
+
+---
+
+## 🚀 **Projects**
+- **[Skin Cancer Detection using CNNs](https://colab.research.google.com/drive/1NMI7886AESBUIGDzHSGCs05gOfD74nIm)**  
+- **[Church Bible App](working on it)**  
+
+---
+
+
+## 📫 **Get in Touch**
+- Email: [mercy21241a12h7@grietcollege.com]  
+- LinkedIn: [Pochampally Mercy](https://www.linkedin.com/in/pochampally-mercy-6a886927a/)
+
